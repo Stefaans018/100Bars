@@ -1074,7 +1074,7 @@ color:#e84e4e}
   height:100%;
   top:0;
   left:0;
-  background-color:rgba(43,42,61,.9)}
+  background-color:rgba(15, 15, 22, 0.9)}
 
 
 .testimonial_active .glide__bullets {
@@ -1202,7 +1202,7 @@ color:#e84e4e}
   left:0;
   width:100%;
   height:100%;
-  background-color:rgba(0, 0, 0, 0.685);
+  background-color:rgba(7, 7, 7, 0.795);
   filter: blur(8px);
   -webkit-filter: blur(8px);
   z-index:-1}
